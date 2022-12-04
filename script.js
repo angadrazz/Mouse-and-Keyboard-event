@@ -7,3 +7,8 @@ outerDiv.addEventListener('mouseover', function(){
 outer.addEventListener('mouseout', function(){
     console.log('Mouse out ');
 });
+
+
+outerDiv.addEventListener('mouseenter', function() {
+    console.log('Mouse enter ');
+});
