@@ -25,4 +25,4 @@ search.addEventListener('keydown', function() {
 
 search.addEventListener('keyup', function() {
     console.log('this is a key up event');
-})
+});
